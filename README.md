@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
-<h3 align="center">I am a student studying at Khmelnytskyi National University, majoring in Software Engineering. I am passionate about developing and deepening my knowledge in this field. I am excited to take on interesting projects and passionately look for solutions to problems.</h3>
 
+
+<h3 align="center">I am a student studying at Khmelnytskyi National University, majoring in Software Engineering.</h3>
+<h4 align= "left" >I am passionate about developing and deepening my knowledge in this field. I am excited to take on interesting projects and passionately look for solutions to problems.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_b.shvets_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b.shvets_" height="30" width="40" /></a>
