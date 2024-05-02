@@ -9,6 +9,7 @@
 <a href="https://kaggle.com/bogdanshvets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bogdanshvets" height="30" width="40" /></a>
 <a href="https://instagram.com/_b.shvets_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b.shvets_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/demoli41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="demoli41" height="30" width="40" /></a>
+<a href="https://www.codewars.com/Demoli" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="Demoli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
