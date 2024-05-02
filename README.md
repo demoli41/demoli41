@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
 
 
-<h3 align="center">I am a student studying at Khmelnytskyi National University, majoring in Software Engineering.</h3>
+<h3 align="left">I am a student studying at Khmelnytskyi National University, majoring in Software Engineering.</h3>
 <h4 align= "left" >I am passionate about developing and deepening my knowledge in this field. I am excited to take on interesting projects and passionately look for solutions to problems.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
